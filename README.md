@@ -7,4 +7,4 @@ Super Mario themed memory game built with JavaScript and Flexbox.
 * Applied Accessibility
 * Responsive Web Design Principles
 * CSS Flexbox
-* CSS Grid
+
